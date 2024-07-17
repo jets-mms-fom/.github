@@ -1,5 +1,7 @@
 ## This is the Medical Modeling and Simulation (MMS) Federation Object Model (FOM) used in the JETS federation.
 
+For more information on JETS, see https://jets-systems.com/
+
 <!--
 
 **Here are some ideas to get you started:**
